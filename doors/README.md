@@ -297,13 +297,24 @@ from the loop?
 
 ### D08
 
-**Question:** Can we know which answer is right without knowing the right
-answer?
+**Status:** waiting for a real case. Not locked and not publishable yet.
 
-**For:** ML researchers and forecasters.
+**Evergreen question:** When AIs disagree, how do you decide which answer to
+trust?
 
-**Contribution:** Propose a reliability signal that can be measured before the
-correct answer is revealed.
+**Public format:** The first real disagreement collected through `D04` becomes
+`Blind Judge 001`. A public post must show the actual question and three
+anonymous, unedited AI answers. It must not advertise an abstract quiz.
+
+**Interaction:** A participant chooses one answer and records confidence before
+the ground truth and model names are revealed. The result records which signals
+influenced the choice: reasoning, sources, confidence, style, or prior belief.
+
+**Research question:** Can reliability signals identify the correct answer
+before the ground truth is revealed?
+
+**For:** ML and calibration researchers, forecasters, decision scientists,
+model-routing builders, and people who compare answers from several AI systems.
 
 **Linked hypotheses:** `H009`, `H022`.
 

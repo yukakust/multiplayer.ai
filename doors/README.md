@@ -66,13 +66,41 @@ answered confidently or noticed that it needed to check.
 
 ### D02
 
-**Question:** Can small AIs combine into one big intelligence and beat a
-frontier model?
+**Status:** locked for v0.1. Do not publish before `/d02` exists.
 
-**For:** systems thinkers and idealists.
+**Card:**
 
-**Contribution:** Propose a minimal architecture or a fair comparison under an
-equal budget.
+```text
+i     i
+
+   i       i
+
+      i
+
+AI WAS SINGLE-PLAYER.
+
+WHAT IF
+INTELLIGENCE
+IS MULTIPLAYER?
+
+D02
+joinmultiplayer.ai/d02
+```
+
+**Research question:** Can a team of small intelligences outperform one
+frontier model under the same total inference budget?
+
+**Why:** Intelligence is usually scaled vertically into a larger model. This
+door asks what happens when it scales sideways through specialization,
+communication, and independent memory—without assuming that coordination wins.
+
+**For:** multi-agent and collective-intelligence researchers, distributed
+systems engineers, local-model builders, orchestration researchers, and people
+who question whether larger models are the only path forward.
+
+**Contribution:** Choose one hard task. Give one large model and a team of
+small models the same total budget. Help design the smallest comparison that
+neither side can win by construction.
 
 **Linked hypotheses:** `H001`, `H002`, `H003`.
 

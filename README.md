@@ -40,6 +40,8 @@ Every path through the lab is simple:
 ı → experiment → i → ?
 ```
 
+Start with the [hypothesis pool](ı/POOL.md).
+
 Each result must say whether it supports, challenges, or leaves the main
 question unanswered. Inconclusive and failed experiments belong here too.
 

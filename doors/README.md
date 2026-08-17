@@ -320,12 +320,43 @@ model-routing builders, and people who compare answers from several AI systems.
 
 ### D09
 
-**Question:** How much of what you know is truly yours?
+**Status:** approved as a case-based format. Waiting for a familiar claim from
+Claim Hunt; not publishable without one.
 
-**For:** people who quantify their lives.
+**Card template:**
 
-**Contribution:** Choose one belief and trace where it came from and how it was
-verified.
+```text
+i
+
+“[THE SAME CLAIM]”
+
+YOU KNOW IT.
+
+DO YOU KNOW
+WHERE YOU
+LEARNED IT?
+
+D09
+joinmultiplayer.ai/d09
+```
+
+Use `YOU KNOW IT` only when prior responses show that the claim is widely
+familiar. Otherwise ask: `DOES THIS SOUND TRUE? IF YES, WHERE DID YOU LEARN
+IT?`
+
+**Public format:** `Source Memory 001`. `D05` asks where a claim entered the
+world; `D09` asks where a person remembers that it entered them.
+
+**Interaction:** Before the source trail is revealed, ask whether the
+participant has heard the claim and, if so, where: a person, school, a book,
+the internet, social media, an AI, or unknown. Keep source memory separate from
+the later question of whether the claim is true.
+
+**Research question:** How accurately can people identify the origin and
+verification status of a familiar claim?
+
+**For:** people interested in memory, provenance, personal knowledge systems,
+fact-checking, education, and the origin of their own beliefs.
 
 **Linked hypotheses:** `H012`, `H015`.
 

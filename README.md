@@ -30,6 +30,7 @@ a match
 
 ```text
 doors/         questions people enter through
+hunts/         public investigations
 journal/       observations they bring
 ı/             ideas before evidence
 experiments/   tests
@@ -39,7 +40,7 @@ i/             results that earned their dot
 Every path through the lab is simple:
 
 ```text
-door → journal → ı → experiment → i → ?
+door → hunt → journal → ı → experiment → i → ?
 ```
 
 Enter through a [door](doors/), or start with the [hypothesis pool](ı/POOL.md).

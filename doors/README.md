@@ -181,12 +181,40 @@ Agreement is the result. Truth is a separate measurement.
 
 ### D05
 
-**Question:** Which facts does the internet get wrong in unison?
+**Status:** locked for v0.1 as the entrance to
+[`Claim Hunt 001`](../hunts/CH001.md). Do not publish before `/d05` exists.
 
-**For:** fact-checkers and search researchers.
+**Card:**
 
-**Contribution:** Bring a widely repeated claim together with verifiable
-evidence that challenges it.
+```text
+i
+
+CAN YOU TRACE
+A “FACT” AI REPEATS
+
+BACK TO ITS
+FIRST SOURCE?
+
+CLAIM HUNT 001
+
+D05
+joinmultiplayer.ai/d05
+```
+
+**Research question:** Can distributed contributors trace a claim repeated by
+AI models and web pages back to primary evidence?
+
+**Why:** Independent-looking pages may repeat one source, and different models
+may inherit that apparent consensus. This door investigates provenance before
+calling a claim true or false.
+
+**For:** fact-checkers, investigative journalists, OSINT researchers,
+librarians, archivists, search engineers, and anyone who enjoys tracing a
+statement back to its origin.
+
+**Contribution:** Join Claim Hunt 001 as a Scout who brings a suspicious claim,
+a Tracer who follows one source branch, or a Verifier who checks primary
+evidence. Reach the first source—or document exactly where the trail goes cold.
 
 **Linked hypotheses:** `H015`, `H021`.
 

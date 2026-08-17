@@ -33,12 +33,34 @@ it becomes part of the shared journal.
 
 ### D01
 
-**Question:** Can a model tell when its knowledge is out of date?
+**Status:** locked for v0.1. Do not publish before `/d01` exists.
 
-**For:** AI researchers.
+**Card:**
 
-**Contribution:** Find an answer that depends on time and record whether the
-model noticed that it needed verification.
+```text
+i
+
+THE WORLD CHANGED.
+THE MODEL DIDN'T.
+
+CAN IT KNOW?
+
+D01
+joinmultiplayer.ai/d01
+```
+
+**Research question:** Can an AI know when its knowledge has expired?
+
+**Why:** The world changes faster than stored knowledge. This door tests
+whether an intelligence can notice that gap before answering confidently—or
+whether another intelligence can notice it first.
+
+**For:** AI reliability and evaluation researchers, search and RAG engineers,
+fact-checkers, and people who have caught a model using an outdated fact.
+
+**Contribution:** Find one fact that changed. Ask a model without warning it.
+Bring the complete transcript and a dated source showing whether the model
+answered confidently or noticed that it needed to check.
 
 **Linked hypotheses:** `H014`, `H015`.
 

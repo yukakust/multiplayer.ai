@@ -53,4 +53,5 @@ The next experiment should be:
 - fair about total cost;
 - small enough to reproduce.
 
-When a hypothesis is selected, give it its own file and keep its ID through the experiment and result. Add the next seed as `H026`.
+When a hypothesis is selected, give it its own file and keep its `H` ID attached
+through every experiment and result. Add the next seed as `H026`.

@@ -2,10 +2,12 @@
 
 Where an idea meets a baseline.
 
-Keep the hypothesis ID. Name each experiment `HNNN-short-name/` and include:
+One experiment may test many hypotheses. Give it its own ID and name it
+`ENNN-short-name/`:
 
 ```text
-source idea:
+source doors:
+source hypotheses:
 question:
 baseline:
 method:

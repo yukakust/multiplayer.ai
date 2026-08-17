@@ -362,14 +362,10 @@ fact-checking, education, and the origin of their own beliefs.
 
 ### D10
 
-**Status:** exploring the central door. The original direct invitation is not
-locked.
+**Status:** three public hooks locked for v0.1. They lead to the same door. Do
+not publish before `/d10` exists.
 
-**Original invitation:** `COME BUILD DISTRIBUTED INTELLIGENCE.` It describes
-the project but gives a cold reader no personal reason to enter. Keep it as a
-later call to action, not as the door itself.
-
-**Personal-leverage candidate:**
+**Hook A — personal leverage:**
 
 ```text
 i     i     i
@@ -378,68 +374,58 @@ YOUR AI
 WORKS FOR YOU.
 
 WHAT IF
-EVERY AI COULD?
+EVERY AI
+COULD TOO?
 
 D10
 joinmultiplayer.ai/d10
 ```
 
-The benefit is not merely that AIs can communicate. When needed, intelligence
-elsewhere in the network can help with an individual's goal. Do not promise
-that every AI is permanently working for one person; the intended value is
-access on demand.
-
-**Question-discovery candidate:**
+**Hook B — an old rule applied to AI:**
 
 ```text
 i          i
 
+TWO HEADS
+ARE BETTER
+THAN ONE.
+
+WHY DOES
 YOUR AI
-MAY HAVE THE ANSWER.
-
-YOU MAY NOT KNOW
-WHAT TO ASK.
-
-SOMEONE ELSE
-MIGHT.
-
-WHY CAN'T
-THEY TALK?
+WORK ALONE?
 
 D10
 joinmultiplayer.ai/d10
 ```
 
-This expresses the unknown-unknown problem: another intelligence may
-contribute the missing question rather than the answer. The system underneath
-the hook is: `Context stays. Questions travel. Answers return.`
-
-**Proverb-hook family:** Familiar language can open the same experiment from
-another angle. The direct English equivalent of the Russian proverb is `Two
-heads are better than one.` A related proverb about capacity is `Many hands
-make light work.` They reveal two distinct promises:
-
-- more heads can expose blind spots and improve the result;
-- more hands can increase how much useful work gets done.
-
-Promising variants to test as social hooks:
+**Hook C — the honest counter-hypothesis:**
 
 ```text
-TWO HEADS ARE BETTER THAN ONE.
+i          i
 
-WHY DOES YOUR AI
-WORK ALONE?
+TWO HEADS
+ARE BETTER THAN ONE.
+
+TOO MANY COOKS
+SPOIL THE BROTH.
+
+WHICH ONE
+IS TRUE FOR AI?
+
+D10
+joinmultiplayer.ai/d10
 ```
 
-```text
-TWO HEADS ARE BETTER THAN ONE.
+The three hooks expose three sides of one experiment: personal leverage,
+collective intelligence, and coordination cost. The first promises access to
+help elsewhere in the network when it is needed, not permanent control over
+every AI. The second asks why an individual's AI remains isolated. The third
+keeps the laboratory honest: more intelligences may produce better thinking,
+or merely more noise.
 
-WHAT ABOUT
-A MILLION?
-```
-
-These are hook families, not automatically separate doors. Several public
-hooks may lead to the same `/d10` experiment.
+The unknown-unknown problem sits underneath all three. One intelligence may
+hold the context while another sees the missing question. The intended system
+is: `Context stays. Questions travel. Answers return.`
 
 **Research question:** Do independent intelligences create more value by
 sharing questions, perspectives, and temporary help than by sharing final
@@ -455,6 +441,3 @@ routing, and collective intelligence.
 
 **Linked hypotheses:** `H001`, `H002`, `H003`, `H012`, `H013` and the broader
 pool.
-
-Keep D10 last until one hook proves that the personal benefit is immediately
-clear to a cold reader.

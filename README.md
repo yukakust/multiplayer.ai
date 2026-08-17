@@ -29,18 +29,20 @@ a match
 ## The lab
 
 ```text
+doors/         questions people enter through
+journal/       observations they bring
 ı/             ideas before evidence
-experiments/   the tests
+experiments/   tests
 i/             results that earned their dot
 ```
 
 Every path through the lab is simple:
 
 ```text
-ı → experiment → i → ?
+door → journal → ı → experiment → i → ?
 ```
 
-Start with the [hypothesis pool](ı/POOL.md).
+Enter through a [door](doors/), or start with the [hypothesis pool](ı/POOL.md).
 
 Each result must say whether it supports, challenges, or leaves the main
 question unanswered. Inconclusive and failed experiments belong here too.

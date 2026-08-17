@@ -142,12 +142,40 @@ reveal the boundary? Bring the questions, complete answers, and sources.
 
 ### D04
 
-**Question:** Do different models fail in the same places?
+**Status:** locked for v0.1. First-public-door candidate. Do not publish before
+`/d04` exists.
 
-**For:** anyone with access to more than one model.
+**Card:**
 
-**Contribution:** Ask several models the same question and bring every answer
-without selecting among them.
+```text
+i     i     i
+
+   i     i
+
+IF EVERY AI AGREES,
+
+CAN THEY ALL
+BE WRONG?
+
+D04
+joinmultiplayer.ai/d04
+```
+
+**Research question:** How correlated are the errors of different models when
+they answer the same question independently?
+
+**Why:** A group becomes more reliable only when its members do not inherit the
+same blind spots. Independent errors can cancel out; correlated errors can turn
+agreement into confidently repeated falsehood.
+
+**For:** anyone with access to several AI systems, evaluation and red-team
+researchers, local-model users, fact-checkers, and domain experts who can verify
+an answer.
+
+**Contribution:** Ask at least three models the exact same question. Do not
+show them one another's answers and do not select the best response. Bring the
+question, every raw answer, model names, date, and independent verification.
+Agreement is the result. Truth is a separate measurement.
 
 **Linked hypotheses:** `H002`, `H021`, `H022`.
 

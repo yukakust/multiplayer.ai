@@ -259,12 +259,39 @@ preference or difference in style—a mistake another practitioner can verify.
 
 ### D07
 
-**Question:** What does your profession know that has never been written down?
+**Status:** locked for v0.1. Do not publish before `/d07` exists.
 
-**For:** experienced practitioners.
+**Card:**
 
-**Contribution:** Describe one tacit rule, how it can be tested, and where it
-stops working.
+```text
+i
+
+AI DOES
+THE TASK.
+
+WHAT DO
+YOU DO?
+
+D07
+joinmultiplayer.ai/d07
+```
+
+**Research question:** When AI performs the task, what human contribution
+remains necessary?
+
+**Why:** A person may no longer execute the operation but still define the real
+goal, recognize missing context, judge the result, and own the outcome. This
+door maps the human layer—and the motivation to build distributed intelligence
+that works for an individual's goals rather than replacing their agency.
+
+**For:** people whose work is partly performed by AI, including builders,
+operators, managers, creators, reviewers, and domain owners responsible for the
+final result.
+
+**Contribution:** Do not answer with a job title. Name one thing you still
+contribute when AI produces the output: what you define, notice, decide, or
+remain responsible for. Make it concrete. What would fail if you disappeared
+from the loop?
 
 **Linked hypotheses:** `H012`, `H013`, `H015`.
 

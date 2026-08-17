@@ -362,13 +362,99 @@ fact-checking, education, and the origin of their own beliefs.
 
 ### D10
 
-**Question:** Come build distributed intelligence.
+**Status:** exploring the central door. The original direct invitation is not
+locked.
 
-**For:** those who have already gone deeper.
+**Original invitation:** `COME BUILD DISTRIBUTED INTELLIGENCE.` It describes
+the project but gives a cold reader no personal reason to enter. Keep it as a
+later call to action, not as the door itself.
 
-**Contribution:** Choose one hypothesis and help build its smallest honest
-test.
+**Personal-leverage candidate:**
 
-**Linked hypotheses:** the entire pool.
+```text
+i     i     i
 
-The most direct door. Keep it last.
+YOUR AI
+WORKS FOR YOU.
+
+WHAT IF
+EVERY AI COULD?
+
+D10
+joinmultiplayer.ai/d10
+```
+
+The benefit is not merely that AIs can communicate. When needed, intelligence
+elsewhere in the network can help with an individual's goal. Do not promise
+that every AI is permanently working for one person; the intended value is
+access on demand.
+
+**Question-discovery candidate:**
+
+```text
+i          i
+
+YOUR AI
+MAY HAVE THE ANSWER.
+
+YOU MAY NOT KNOW
+WHAT TO ASK.
+
+SOMEONE ELSE
+MIGHT.
+
+WHY CAN'T
+THEY TALK?
+
+D10
+joinmultiplayer.ai/d10
+```
+
+This expresses the unknown-unknown problem: another intelligence may
+contribute the missing question rather than the answer. The system underneath
+the hook is: `Context stays. Questions travel. Answers return.`
+
+**Proverb-hook family:** Familiar language can open the same experiment from
+another angle. The direct English equivalent of the Russian proverb is `Two
+heads are better than one.` A related proverb about capacity is `Many hands
+make light work.` They reveal two distinct promises:
+
+- more heads can expose blind spots and improve the result;
+- more hands can increase how much useful work gets done.
+
+Promising variants to test as social hooks:
+
+```text
+TWO HEADS ARE BETTER THAN ONE.
+
+WHY DOES YOUR AI
+WORK ALONE?
+```
+
+```text
+TWO HEADS ARE BETTER THAN ONE.
+
+WHAT ABOUT
+A MILLION?
+```
+
+These are hook families, not automatically separate doors. Several public
+hooks may lead to the same `/d10` experiment.
+
+**Research question:** Do independent intelligences create more value by
+sharing questions, perspectives, and temporary help than by sharing final
+answers alone?
+
+**Contribution:** Help compare an isolated person-and-AI pair with a network
+that can contribute questions or assistance while the original context stays
+with its owner.
+
+**For:** people who already use an AI as an extension of their work, people
+who feel the prompt bottleneck, and builders of agent networks, privacy-aware
+routing, and collective intelligence.
+
+**Linked hypotheses:** `H001`, `H002`, `H003`, `H012`, `H013` and the broader
+pool.
+
+Keep D10 last until one hook proves that the personal benefit is immediately
+clear to a cold reader.

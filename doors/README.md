@@ -106,14 +106,39 @@ neither side can win by construction.
 
 ### D03
 
-**Question:** Where is the boundary of a model's knowledge?
+**Status:** locked for v0.1. Do not publish before `/d03` exists.
 
-**For:** empiricists.
+**Card:**
 
-**Contribution:** Bring a question near the suspected boundary and a verifiable
-correct answer.
+```text
+i
 
-**Linked hypotheses:** `H015`, `H022`.
+WHERE DOES AN AI
+STOP KNOWING
+
+AND START
+GUESSING?
+
+D03
+joinmultiplayer.ai/d03
+```
+
+**Research question:** Where does an AI stop knowing and start guessing?
+
+**Why:** Accuracy may collapse while confidence remains unchanged. This door
+maps that transition and tests whether disagreement between intelligences can
+reveal a boundary that one intelligence cannot see alone.
+
+**For:** evaluation and calibration researchers, benchmark builders, red
+teamers, empiricists, and domain experts who can map questions from obvious to
+unknown.
+
+**Contribution:** Build a ladder of questions in a field you know: obvious,
+specific, obscure, unknown. Where does accuracy break? When the answers become
+wrong, does confidence fall with them? If not, can disagreement between models
+reveal the boundary? Bring the questions, complete answers, and sources.
+
+**Linked hypotheses:** `H009`, `H015`, `H022`.
 
 ### D04
 

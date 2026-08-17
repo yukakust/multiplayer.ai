@@ -220,13 +220,40 @@ evidence. Reach the first source—or document exactly where the trail goes cold
 
 ### D06
 
-**Question:** What does a model say confidently—and incorrectly—about your
-field?
+**Status:** locked for v0.1. Do not publish before `/d06` exists.
 
-**For:** practitioners in any profession.
+**Card:**
 
-**Contribution:** Record the model's answer, a professional correction, and
-evidence that can be checked.
+```text
+i
+
+AI THINKS
+IT KNOWS
+YOUR JOB.
+
+WHAT'S ONE MISTAKE
+ONLY AN EXPERT
+WOULD CATCH?
+
+D06
+joinmultiplayer.ai/d06
+```
+
+**Research question:** Which domain-specific AI errors are obvious to
+experienced practitioners but invisible to general benchmarks?
+
+**Why:** General evaluations cover recorded knowledge. Practitioners can see
+mistakes hidden in real constraints, edge cases, and experience—turning human
+expertise into new, checkable evaluation cases.
+
+**For:** experienced practitioners, engineers, operators, craftspeople,
+developers, analysts, and specialists whose knowledge is poorly represented by
+general benchmarks.
+
+**Contribution:** Bring one mistake only an experienced practitioner would
+catch: the exact question, complete AI answer, correction, checkable evidence
+or reproducible test, and the conditions where the correction applies. Not a
+preference or difference in style—a mistake another practitioner can verify.
 
 **Linked hypotheses:** `H015`, `H021`, `H022`.
 
